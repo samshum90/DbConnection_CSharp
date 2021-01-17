@@ -1,0 +1,15 @@
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/bin/Debug/net5.0/DbConnection_CSharp.deps.json
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/bin/Debug/net5.0/DbConnection_CSharp.runtimeconfig.json
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/bin/Debug/net5.0/DbConnection_CSharp.runtimeconfig.dev.json
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/bin/Debug/net5.0/DbConnection_CSharp.dll
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/bin/Debug/net5.0/ref/DbConnection_CSharp.dll
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/bin/Debug/net5.0/DbConnection_CSharp.pdb
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/DbConnection_CSharp.csprojAssemblyReference.cache
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/DbConnection_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/DbConnection_CSharp.AssemblyInfoInputs.cache
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/DbConnection_CSharp.AssemblyInfo.cs
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/DbConnection_CSharp.csproj.CoreCompileInputs.cache
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/DbConnection_CSharp.dll
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/ref/DbConnection_CSharp.dll
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/DbConnection_CSharp.pdb
+/Users/samuelshum/Documents/Code/dbConnection/DbConnection_CSharp/obj/Debug/net5.0/DbConnection_CSharp.genruntimeconfig.cache
